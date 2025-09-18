@@ -1,0 +1,28 @@
+html {
+    color: white;
+   
+}
+#gorny {
+    color: #74acdf;
+    background-color: #74acdf;
+    height: 100px;
+    width: 500px;
+}
+#dolny {
+    color: #74acdf;
+    background-color: #74acdf;
+   height: 100px;
+    width: 500px;
+    
+}
+img {
+    margin-left: 170px;
+    width: 150px;
+}
+#pudelko {
+    margin-left: 650px;
+    margin-top: 200px;
+   
+    margin-right: 755px;
+    box-shadow: 20px 20px 50px black;
+}
